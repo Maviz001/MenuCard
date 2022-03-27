@@ -1,0 +1,80 @@
+.nav{
+    margin-right: 20px;
+    border-bottom:solid lightgray;
+    background-color: black;
+    color:lightpink;
+}
+a.navbar-brand{
+    color:yellow;
+    font-weight: bolder;
+}
+.btn{
+    size: 10000000px;
+    color: aliceblue;
+    font-weight:bold ;
+}
+a.active{
+    margin-right:45px;
+    color: lightpink;
+}
+.card{
+    border:hidden;
+}
+.h{
+    color:aliceblue;
+    text-align: center;
+    font-size:100px;
+    font-weight: lighter;
+}
+.p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.a{
+    text-align: center;
+    font-size:20px;
+    font-weight: lighter;
+}
+.center{
+    align-items: center;
+    padding-right: 500%;
+}
+.c{
+    background-color: black;
+    text-align: center;
+}
+.b{
+    color: white;
+    border-bottom:solid lightgray;
+}
+.v{
+    align-items: center;
+}
+.row{
+    margin-left:100px;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.p{
+    font-weight: bold;
+}
+.card-text{
+    color:white;
+}
+.container{
+    max-width:1000%;;
+    text-align: center;
+    margin-left:0%;
+    margin-right: 0%;
+    background-image:url(https://tse2.mm.bing.net/th?id=OIP.Bz9AG4u5QLMIqATqlrYCCwHaE8&pid=Api&P=0&w=260&h=173);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.line{
+    color: white;
+    font-weight: 900;
+    font-size: xx-large;
+    display: inline;
+}
